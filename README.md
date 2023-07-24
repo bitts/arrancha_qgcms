@@ -2,7 +2,7 @@
 # arrancha_cms
 Bot de arranchamento no sistema SILA
 
-Utilize o arquivo [arrancha_cms.php](https://gitbug.com/bitts/arrancha_cms/arrancha_cms.php) para execução em modo de produção.
+Utilize o arquivo [arrancha_cms.php](https://github.com/bitts/arrancha_qgcms/blob/main/arrancha_cms.php) para execução em modo de produção.
 
 Script para realização de arranchamentos automáticos no sistema SILA utilizado no rancho do QGCMS - POA/RS
 
